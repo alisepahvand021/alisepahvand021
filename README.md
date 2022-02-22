@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alisepahvand021
+- 👀 I’m interested in Back-end(python, C++)
+- 🌱 I’m currently learning web design(CSS, JS)
